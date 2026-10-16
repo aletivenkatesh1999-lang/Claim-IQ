@@ -1,0 +1,168 @@
+Health Insurance Policy Guidelines
+
+Policy Overview
+
+This health insurance policy provides hospitalization coverage for
+eligible insured members, subject to the policy terms, coverage limit,
+waiting periods, exclusions, and claim conditions.
+
+Hospitalization Coverage
+
+Hospitalization expenses may be covered when the insured member is
+admitted to a recognized hospital for medically necessary treatment.
+
+Eligible expenses may include:
+
+1. Hospital room charges within the applicable room-rent limit.
+2. Nursing expenses.
+3. Doctor and specialist consultation charges.
+4. Operation theatre charges.
+5. Prescribed medicines used during hospitalization.
+6. Diagnostic and laboratory tests connected to the hospitalization.
+7. Eligible intensive care unit charges.
+8. Ambulance expenses within the applicable policy limit.
+
+Claim Notification
+
+For planned hospitalization, the insured member should inform the
+insurer or third-party administrator before admission whenever
+pre-authorization is required.
+
+For emergency hospitalization, the insured member or representative
+should notify the insurer or third-party administrator as soon as
+reasonably possible after admission.
+
+Required Claim Documents
+
+The claimant must submit the applicable documents:
+
+1. Completed and signed health insurance claim form.
+2. Health insurance policy or health-card details.
+3. Hospital admission and discharge summary.
+4. Final hospital bill.
+5. Detailed itemized hospital invoice.
+6. Payment receipts.
+7. Doctor prescriptions.
+8. Diagnostic and laboratory reports.
+9. Pharmacy bills supported by valid prescriptions.
+10. Identification and bank-account details where required.
+11. Accident-related police report where applicable.
+12. Any additional medical records requested during claim review.
+
+Cashless Claims
+
+For a cashless claim, treatment should normally be taken at an eligible
+network hospital.
+
+The network hospital submits the pre-authorization request to the
+insurer or third-party administrator.
+
+Cashless approval is subject to policy eligibility, available coverage,
+medical necessity, exclusions, waiting periods, and receipt of required
+medical information.
+
+Cashless authorization does not guarantee final settlement of every
+hospital expense. Non-payable expenses may remain the responsibility
+of the insured member.
+
+Reimbursement Claims
+
+For reimbursement claims, the insured member may pay the hospital
+directly and subsequently submit the claim documents to the insurer.
+
+The submitted claim is reviewed against the policy coverage, available
+sum insured, sub-limits, exclusions, waiting periods, and medical
+necessity.
+
+Waiting Period
+
+Certain medical conditions or treatments may be subject to a waiting
+period.
+
+Claims arising during an applicable waiting period may not be payable
+unless the policy explicitly provides coverage.
+
+The exact waiting period depends on the approved policy schedule and
+policy wording.
+
+Pre-Existing Conditions
+
+Pre-existing conditions may be covered only after completion of the
+waiting period stated in the applicable policy schedule.
+
+The insured member must provide accurate medical information during
+policy enrollment and claim processing.
+
+Material non-disclosure may affect claim eligibility.
+
+Common Exclusions
+
+The following may be excluded unless the applicable policy explicitly
+provides coverage:
+
+1. Treatment during an applicable waiting period.
+2. Cosmetic treatment that is not medically necessary.
+3. Experimental or unproven treatment.
+4. Treatment received only for diagnostic observation without covered
+   hospitalization.
+5. Treatment resulting from intentional self-inflicted injury.
+6. Expenses unrelated to the covered hospitalization.
+7. Non-medical and administrative items not covered by the policy.
+8. Treatment obtained through fraudulent or materially misleading
+   information.
+
+Claim Assessment
+
+The claims team verifies:
+
+1. Whether the policy was active on the treatment date.
+2. Whether the insured member was eligible.
+3. Whether the treatment was medically necessary.
+4. Whether the condition was covered.
+5. Whether a waiting period applied.
+6. Whether exclusions or sub-limits applied.
+7. Whether the required documents were submitted.
+8. Whether sufficient coverage remained under the policy.
+
+Additional information may be requested from the claimant, hospital,
+doctor, or third-party administrator before a final decision is made.
+
+Claim Status Workflow
+
+A newly created claim begins in Submitted status.
+
+A valid claim may progress through:
+
+Submitted
+Under Review
+Approved or Rejected
+Closed
+
+A claim should not move backward through the workflow unless an
+authorized claims manager records an override and justification.
+
+Fraud and Misrepresentation
+
+The claim may be investigated when submitted information appears
+incomplete, altered, inconsistent, duplicated, or intentionally
+misleading.
+
+Suspected fraud does not automatically establish that fraud occurred.
+The claim must be reviewed according to the approved investigation and
+decision process.
+
+No-Match Rule for the AI Assistant
+
+The AI assistant must answer only from approved active policy and
+guideline documents.
+
+If the approved documents do not contain the requested information, the
+assistant must respond:
+
+No relevant information was found in the approved policy documents.
+
+The assistant must not invent coverage amounts, waiting periods,
+eligibility conditions, benefits, exclusions, or claim decisions.
+
+Every retrieved answer must include the source document and source
+section used.
